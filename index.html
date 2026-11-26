@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nossos dias</title>
+<link rel="icon" href="fotos/IMG_4523.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Quicksand:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Nossos dias juntos</h1>
+    <p class="subtitulo">Cada coração é um dia que ficamos juntos</p>
+    <div class="contador"><span id="total">0</span> dias juntinhos</div>
+  </header>
+
+  <section class="calendario">
+    <div class="topo-mes">
+      <button class="nav" id="anterior" aria-label="Mês anterior">‹</button>
+      <h2 id="titulo-mes"></h2>
+      <button class="nav" id="proximo" aria-label="Próximo mês">›</button>
+    </div>
+    <div class="grade" id="grade"></div>
+  </section>
+
+  <section class="painel" id="painel" aria-live="polite">
+    <div class="painel-topo">
+      <h3 id="painel-titulo"></h3>
+      <button class="fechar" id="fechar" aria-label="Fechar">✕</button>
+    </div>
+    <p class="nota" id="painel-nota"></p>
+    <div class="fotos" id="fotos"></div>
+  </section>
+
+</div>
+
+<div class="lightbox" id="lightbox"><img id="lightbox-img" alt=""></div>
+
+<script src="script.js"></script>
+</body>
+</html>
