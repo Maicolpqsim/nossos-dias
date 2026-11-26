@@ -7,7 +7,7 @@ const DIAS = {
   "2026-10-17": { nota: "karaoke", fotos: ["fotos/IMG_4638.jpg", "fotos/IMG_2853.jpg", "fotos/IMG_4639.jpg"]},
   "2026-10-31": { nota: "conheci o Freud", fotos: ["fotos/IMG_4712.jpg"]},
   "2026-11-01": { nota: "mercado comprando docinhos", fotos: ["fotos/PHOTO-2026-11-16-23-51-52(2).jpg", "fotos/PHOTO-2026-11-16-23-51-52.jpg"]},  
-  "2026-11-07": { nota: "primeiro dia na casa da tia dela", fotos: ["fotos/camera1.JPG", "fotos/camera2.JPG", "fotos/camera5.JPG"]},
+  "2026-11-07": { nota: "primeiro dia na casa da tia dela", fotos: ["fotos/1.JPG", "fotos/2.JPG", "fotos/5.JPG"]},
   "2026-11-08": { nota: "dia de soneca com o Freud e o show do  Afonso Padilha", fotos: ["fotos/IMG_4730.jpg", "fotos/IMG_4735.jpg", "fotos/PHOTO-2026-11-10-00-14-55.jpg"]},
   "2026-11-14": { nota: "dia de parque com sogrão e os tios dela", fotos: ["fotos/PHOTO-2026-11-14-19-27-56(1).jpg", "fotos/PHOTO-2026-11-14-19-27-56.jpg" , "fotos/PHOTO-2026-11-16-23-51-54.jpg", "fotos/IMG_4774.jpg"]},
   "2026-11-20": { nota: "chegando na casa dela", fotos: ["fotos/IMG_4803.jpg"]},
